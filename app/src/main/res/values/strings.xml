@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guessnumber</string>
+    <string name="app_name1">Select a range</string>
+    <string name="game_details">\n \n  Bored of playing high end graphic games??Here is a game for you that tests your luck in guessing a number.
+                                You have to guess the correct number within the specified range before you run out of your attempts. For
+                                every wrong guess you will be given a clue of whether the number is below or above the previous guess.</string>
+    <string name="app_start">Description:</string>
+    <string name="app_help"> \n \n  \n \n \n \nBored of playing high end graphic games??Here is a game for you that tests your luck in guessing a number.
+                                You have to guess the correct number within the specified range before you run out of your attempts. For
+                                every wrong guess you will be given a clue of whether the number is below or above the previous guess.</string>
+    <string name="about_me">Name : I. Srikanth \n \n Email: srikanth.indrakanti@outlook.com \n \n Location: India</string>
+</resources>
